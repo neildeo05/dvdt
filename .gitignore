@@ -1,2 +1,3 @@
 *.swp
 *.onnx
+obj_dir/
